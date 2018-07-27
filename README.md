@@ -5,9 +5,8 @@ Works with 'import' and 'require'.
 
 ## Installation
 
-Put the contents of this rep to your project's node_modules/eslint-plugin-importcontrol
-
-**Note:** If you installed ESLint globally (using the `-g` flag) then you must also install `eslint-plugin-importcontrol` globally.
+Do ``` npm install --production ```
+and put the contents of this rep to your project's node_modules/eslint-plugin-importcontrol
 
 ## Usage
 
