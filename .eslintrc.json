@@ -1,0 +1,15 @@
+{
+    "extends": ["airbnb-base", "prettier"],
+    "plugins": ["mocha"],
+    "rules": {
+      "no-unused-vars": ["error", { "argsIgnorePattern": "next" }],
+      "max-len": ["error", { "ignoreComments": true, "code": 180 }],
+      "import/no-extraneous-dependencies": ["error", {"devDependencies": true}]
+    },
+    "env": {
+      "node": true,
+      "es6": true,
+      "mocha": true
+    }
+  }
+  
