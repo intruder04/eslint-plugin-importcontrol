@@ -5,9 +5,7 @@ Works with 'import' and 'require'.
 
 ## Installation
 
-```
-$ npm install eslint-plugin-importcontrol --save-dev
-```
+Put the contents of this rep to your project's node_modules/eslint-plugin-importcontrol
 
 **Note:** If you installed ESLint globally (using the `-g` flag) then you must also install `eslint-plugin-importcontrol` globally.
 
